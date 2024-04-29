@@ -7,7 +7,7 @@
     -validset:5000  
     -testset:10000  
 
-訓練結果：  
+以一次週期訓練結果：  
 ![alt text](image.png)
   
 各項正確率：  
